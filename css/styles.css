@@ -420,3 +420,19 @@ padding-bottom:10px !important;
 	margin-top:153px;
 }
 
+
+.simpleCart_shelfItem{
+    margin:10px 0;
+}
+
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 601px) 
+  and (device-height: 906px) 
+  and (-webkit-min-device-pixel-ratio: 1.331) 
+  and (-webkit-max-device-pixel-ratio: 1.332) {
+    .tab-5{
+        width: 50% !important;
+    }
+}
