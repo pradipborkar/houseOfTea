@@ -1,0 +1,106 @@
+
+/* genral style sheet */
+
+.dropdown-menu>li>a,
+.sticky .dropdown-menu li a{
+    /* background-color:#953132; */
+	font-size;14px;
+    padding-bottom: 0;
+    padding-top: 8px;
+	text-transform:uppercase;
+}
+
+.dropdown-menu li a:hover{	
+	color:#ffcc29;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus{
+color:#000;
+}
+
+
+ .fb-icon{
+	display:block;
+	width:37px;
+	height:37px;
+	background:#ffcc29;
+	color:#953132;
+	border-radius:25%;
+	margin:5px 0 5px 5px;
+	transition:all 0.5s ease-in-out 0s;
+}
+.list_1 li a.fa-facebook {
+    font-size: 25px;
+    line-height: 52px;
+}
+.list_1 li a {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    color: #ccffff;
+    background: #0B0B61;
+    text-align: center;
+    border-radius:30px;
+}
+
+ .fb-icon:hover{
+ background-color:#fff;
+} 
+
+.booking{
+	font-weight:bold;
+	padding-top:6px;
+	padding-right:10px;
+	padding-left:10px;
+	color:#fff;
+	background-color:#953132;
+	margin-top:5px;
+	
+}
+.upspace{
+	margin-top:166px;
+}
+.upspace1{
+	margin-top:200px;
+}
+.upspace2{
+ padding-top:71px;
+
+}
+.toppace{
+ margin-top:130px;
+}
+.tea-logo{
+  height:57px;
+  width:50%;
+}
+.express{
+  height:400px;
+}
+.elaichi{
+ width:400px;
+ height:500px;
+}
+p.improve{
+  color: #920606;
+  font-size: 18px;
+  font-weight: normal
+}
+.logomargin{
+  width:200px;
+  height:100px;
+  margin-bottom:20px;
+}
+.down{
+ margin-top:35px;
+ margin-bottom:5px;
+ margin-left:55px;
+}
+
+
+
+
+ 
+  
+
+
